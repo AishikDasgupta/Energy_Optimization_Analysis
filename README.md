@@ -1,4 +1,4 @@
-# 📈 Energy Usage Data Analysis 🇺🇸 
+# 📈 Energy Usage Data Analysis 
 
 This project analyzes energy usage data 💡 for the United States and New England from 2001-2022. It uses Python 🐍 for data visualization to understand trends and seasonal patterns.
 
